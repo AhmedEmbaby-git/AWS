@@ -40,3 +40,7 @@ variable "private2" {
 variable "instance_type" {
   type = string
 }
+
+# # variable "subnets" {
+# #   type = list
+# # }
